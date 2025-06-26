@@ -1,4 +1,3 @@
-# Machine-Learning-Internship---Arch-Technologies
 # Brain Tumor Segmentation using YOLOv11 and SAM2
 
 ## 📌 Project Overview
@@ -77,13 +76,6 @@ Mounted Google Drive and loaded image data for training, validation, and testing
 * YOLO loss and accuracy graphs
 * Labeled bounding box predictions
 * Masked tumor regions with class labels
-
----
-
-## 🔗 Links
-
-* **GitHub Repo:** \[Add your repo link here]
-* **Video Demo:** \[Add your YouTube demo link here]
 
 ---
 
