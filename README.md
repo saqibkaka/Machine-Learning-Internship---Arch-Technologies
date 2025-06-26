@@ -90,8 +90,8 @@ Mounted Google Drive and loaded image data for training, validation, and testing
 ## 👤 Author
 
 **Name:** Saqib Hussain
-**Phone:** \[Your Number]
-**InternID:** \[Your ID]
+**Email:** saqibhussain151214@gmail
+**LINKEDIN ID:** https://www.linkedin.com/in/saqib-hussain-435b3a208/
 
 ---
 
